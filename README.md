@@ -28,4 +28,4 @@
 
 http://u.pc.cd/yq7
 
-_<sub>Custom versions of the game can be requested, leave a comment in issues and I will get to you with contact info.  If you'd like assets to be cahnged you must provide your own assets.</sub>_
+_<sub>Custom versions of the game can be requested, leave a comment in issues and I will get to you with contact info.  If you'd like assets to be changed you must provide your own assets.</sub>_
