@@ -19,7 +19,7 @@
 
 >You can move around a bit in the water but if you go to far you will fall in and be stuck falling in the water with no way back out. If you fall in, resart the game.
 
-### To download the game go to the pCloud share link below, once you install the zip file extract it and enjoy.
+### To download the game go to the pCloud share link below, once you install the zip file extract it and enjoy. *This game works on Windows only.*
 
 (_This game may recive updates, check this repositories comments for if an update has been made. Or check the pCloud link to see if it changed._)
 
