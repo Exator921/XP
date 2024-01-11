@@ -6,17 +6,21 @@ A game with no "real" story, no point, and really no end. It just kinda exists. 
 
 
 <----- HOW TO PLAY ------>
+
 Use WASD to move the character, use your mouse to look around, press and hold SHIFT to run while pressing a move key, and use SPACE to jump.
 
-Press M to pause or play music. (More music may or may not come.)
+Press M to pause or play music. (_More music may or may not come._)
 
 <-----HOW TO CLOSE THE GAME----->
-Press ESC (Escape) to force quite.
+
+Press ESC (_Escape_) to force quite.
 
 <-----BEWARE THE WATER----->
+
 You can move around a bit in the water but if you go to far you will fall in and be stuck falling in the water with no way back out. If you fall in, resart the game.
 
 To download the game go to the pCloud share link below, once you install the zip file extract it and enjoy.
-(This game may recive updates, check this repositories comments for if an update has been made. Or check the pCloud link to see if it changed.)
+
+(_This game may recive updates, check this repositories comments for if an update has been made. Or check the pCloud link to see if it changed._)
 
 http://u.pc.cd/yq7
