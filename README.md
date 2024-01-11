@@ -23,6 +23,7 @@
 ### *This game works on Windows only. Will be coming to other devices soon.*
 
 (_This game may recive updates, check this repositories comments for if an update has been made. Or check the pCloud link to see if it changed._)
+
 (_For previous versions of the game, go to the PastUpdates branch. Use the releases on the side to see what is in each version._)
 
 http://u.pc.cd/yq7
