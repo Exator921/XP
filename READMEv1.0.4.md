@@ -18,7 +18,7 @@
 
 >Press ESC (Escape) to force quite.
 
-#<-----BEWARE THE WATER----->
+# <-----BEWARE THE WATER----->
 
 >You can move around a bit in the water but if you go to far you will fall in and be stuck falling in the water with no way back out. If you fall in, press R to respawn.
 
