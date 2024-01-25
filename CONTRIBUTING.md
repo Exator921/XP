@@ -4,4 +4,4 @@
 
 ### You can not try selling a version of the game or try making the game proprietary. I made it open sorce for a reason.
 
-### Keep the game at least Rated T, I don't want to look around and see porn versions of the game and I don't want kids/adults thinking thats what the main project is.
+### Keep the game at least Rated M, I don't want to look around and see porn versions of the game and I don't want kids/adults thinking thats what the main project is.
