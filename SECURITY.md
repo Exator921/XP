@@ -4,6 +4,8 @@
 
 Versions released and reciving updates.
 
+### v1.* versions
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.6   | :x: Complete and playable [Reciving no updates] |
