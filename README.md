@@ -44,6 +44,6 @@
 
 (*For previous versions of the game, go to the PastUpdates branch. Use the releases on the side to see what is in each version.*)
 
-[XP Download](http://u.pc.cd/7fertalK)
+[XP Download](http://u.pc.cd/sVzrtalK)
 
 *<sub>Custom versions of the game can be requested, leave a comment in Discussions and I will get to you with contact info.  If you'd like assets to be changed you must provide your own assets.</sub>*
