@@ -8,19 +8,37 @@
 
 >Some of the music in this is made by me, a lot of it is copyright free but you might get a copyright notice for my music if you record this game and post to something like YouTube.  Please keep this in mind.
 
-## <----- HOW TO PLAY ------>
+>Controller commands work for all controllers, convert the commands to your preferred controller type.
+
+## <-----HOW TO PLAY - M&K------>
 
 >Use WASD to move the character, use your mouse to look around, press and hold SHIFT to run while pressing a move key, and use SPACE to jump
 
 >Press M to pause or play music. (More music may or may not come.)
 
-## <-----HOW TO CLOSE THE GAME----->
+>F12 to control game stats.
+
+## <-----HOW TO CLOSE THE GAME - M&K----->
 
 >Press ESC (Escape) to force quite.
 
+
+## <-----HOW TO PLAY - CONTROLLER----->
+
+>Left stick to move the character, right stick to look around, press and hold B to run while character is moving, and use A to jump.
+
+>Press Start to pause or play music.
+
+>X to control game stats.
+
+
+## <-----HOW TO CLOSE THE GAME CONTROLLER----->
+
+>Press select (Back if your on Xbox 360 controller, share for Xbox One, Series, or PlayStation) to force quite.
+
 ## <-----BEWARE THE WATER----->
 
->You can move around a bit in the water but if you go to far you will fall in and be stuck falling in the water with no way back out. If you fall in, press R to respawn.
+>You can move around a bit in the water but if you go to far you will fall in and be stuck falling in the water with no way back out. If you fall in, press R to respawn on PC, Y for controller.
 
 ## }====Music playlist===={
 
@@ -44,6 +62,6 @@
 
 (*For previous versions of the game, go to the PastUpdates branch. Use the releases on the side to see what is in each version.*)
 
-[XP Download](http://u.pc.cd/sVzrtalK)
+[XP Download](http://u.pc.cd/CXXrtalK)
 
 *<sub>Custom versions of the game can be requested, leave a comment in Discussions and I will get to you with contact info.  If you'd like assets to be changed you must provide your own assets.</sub>*
