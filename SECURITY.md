@@ -8,6 +8,7 @@ Versions released and reciving updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.0.7   | :x: Complete and playable [Reciving no updates] |
 | 1.0.6   | :x: Complete and playable [Reciving no updates] |
 | 1.0.5   | :x: Complete and playable [Reciving no updates] |
 | 1.0.4   | :x: Complete and playable [Reciving no updates] |
