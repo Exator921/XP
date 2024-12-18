@@ -1,5 +1,7 @@
 # XP
 
+![image](https://media.discordapp.net/attachments/1155841019926036591/1318954240864948234/XP-b.png?ex=6764335c&is=6762e1dc&hm=f8caafae487fd8166ca900c9d5d484404f16c0ead1fb87b2cb9f88cb906376c2&=&format=webp&quality=lossless&width=1013&height=570)
+
 ## This is XP
 
 A game with no "real" story, no point, and really no end. It just kinda exists. I made it from playing around with Unity to see what I could do. It started as a terrain test for me to play with the terrain tool for my Game Design class then slowly became it's own little world. If you want a story it's up to you to make it, pretty much a sand box but with just a world and character.
