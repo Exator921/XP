@@ -73,6 +73,7 @@ Press select to force quite.
 >
 > - *<sub>Custom versions of the game can be requested, leave a comment in Discussions and I will get to you with contact info.  If you'd like assets to be changed you must provide your own assets.</sub>*
 
+### Download
 **[XP Download](http://u.pc.cd/CXXrtalK)**
 
 *<sub>© 2024 Exator911</sub>*
